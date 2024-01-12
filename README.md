@@ -14,4 +14,4 @@
 При создании данной работы были использованы следующие средства проверки и улучшения кода:
 *ul https://jigsaw.w3.org/css-validator/validator *ul https://validator.w3.org/nu/#textarea 
 
-GitHub Pages: 
+GitHub Pages: https://natalyapeshkova.github.io/shop/
